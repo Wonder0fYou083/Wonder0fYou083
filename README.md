@@ -1,16 +1,17 @@
-## Hi there 👋
+# About me
+
+
+
+
+Here are some ideas to get started.
+
+
+- 🌱 I’m currently learning Java and Python basics as well as basic data structures and algorithm.
+
+- 🤔 I’m looking for help with computer science and quantitative trading.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm a big fan of JoJo
 
 <!--
-**Wonder0fYou083/Wonder0fYou083** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me: kaw083@ucsd.edu
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
